@@ -1,0 +1,1 @@
+This is a school project in which I used integer programming to solve a variation of the traveling salesman problem. In this variation, we are considering a fleet of food trucks which need to deliver to food to various food banks in the broader Amherst area. For a full overview, results, etc. see the report.pdf file.
