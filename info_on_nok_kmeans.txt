@@ -1,0 +1,6 @@
+4 Subsets Using K-Means
+ - Routes in pic
+ - Subset lengths: 11, 20, 77, 24
+ - Costs: 2.438200000000e+04 + 5.186100000000e+04 + 1.319790000000e+05 (20% gap) + 2.783700000000e+04 (15% gap)
+ - Total cost: 236,057
+ - Num routes: 43
